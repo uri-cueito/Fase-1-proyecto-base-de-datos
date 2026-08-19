@@ -46,12 +46,12 @@ El objetivo principal es resolver la dispersión de información y la lentitud e
   "estadio": "General San Martín",
   "equipo_local": {
     "club_id": { "$oid": "650c1f1e9b1d8e2a3c4b1001" },
-    "nombre": "Club Atlético San Martín",
+    "nombre": "Club La 60 Granaderos",
     "goles": 2
   },
   "equipo_visitante": {
     "club_id": { "$oid": "650c1f1e9b1d8e2a3c4b1004" },
-    "nombre": "Atlético Palmira",
+    "nombre": "Club Alianza Ferrisi",
     "goles": 1
   },
   "estado": "finalizado",
