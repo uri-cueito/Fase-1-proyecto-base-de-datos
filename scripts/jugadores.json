@@ -1,0 +1,133 @@
+[
+  {
+    "nombre": "Lucas",
+    "apellido": "Gómez",
+    "dni": "39123456",
+    "edad": 26,
+    "posicion": "Delantero",
+    "goles": 12,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000001" },
+    "contacto": { "telefono": "2634112233", "email": "lgomez@gmail.com" },
+    "tarjetas": [
+      { "tipo": "amarilla", "fecha": "2026-04-10" },
+      { "tipo": "amarilla", "fecha": "2026-05-02" }
+    ]
+  },
+  {
+    "nombre": "Matías",
+    "apellido": "Pérez",
+    "dni": "40987654",
+    "edad": 24,
+    "posicion": "Mediocampista",
+    "goles": 4,
+    "sancionado": true,
+    "equipo_id": { "$oid": "650000000000000000000001" },
+    "contacto": { "telefono": "2634445566" },
+    "tarjetas": [
+      { "tipo": "roja", "fecha": "2026-05-15", "fechasSancion": 2 }
+    ]
+  },
+  {
+    "nombre": "Gonzalo",
+    "apellido": "Fernández",
+    "dni": "38555444",
+    "edad": 28,
+    "posicion": "Arquero",
+    "goles": 0,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000002" },
+    "contacto": { "telefono": "2634998877", "email": "gonzaf@gmail.com" },
+    "tarjetas": []
+  },
+  {
+    "nombre": "Facundo",
+    "apellido": "Sosa",
+    "dni": "41222333",
+    "edad": 22,
+    "posicion": "Defensor",
+    "goles": 1,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000002" },
+    "contacto": { "telefono": "2634771122" },
+    "tarjetas": [
+      { "tipo": "amarilla", "fecha": "2026-04-18" }
+    ]
+  },
+  {
+    "nombre": "Joaquín",
+    "apellido": "Romero",
+    "dni": "37888999",
+    "edad": 29,
+    "posicion": "Delantero",
+    "goles": 8,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000003" },
+    "contacto": { "telefono": "2634336699" },
+    "tarjetas": []
+  },
+  {
+    "nombre": "Emiliano",
+    "apellido": "Martínez",
+    "dni": "42111000",
+    "edad": 21,
+    "posicion": "Mediocampista",
+    "goles": 3,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000004" },
+    "contacto": { "telefono": "2634000111" },
+    "tarjetas": []
+  },
+  {
+    "nombre": "Nicolás",
+    "apellido": "López",
+    "dni": "36444333",
+    "edad": 31,
+    "posicion": "Defensor",
+    "goles": 2,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000005" },
+    "contacto": { "telefono": "2634665544" },
+    "tarjetas": [
+      { "tipo": "amarilla", "fecha": "2026-05-01" }
+    ]
+  },
+  {
+    "nombre": "Lautaro",
+    "apellido": "Díaz",
+    "dni": "43999888",
+    "edad": 20,
+    "posicion": "Delantero",
+    "goles": 15,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000005" },
+    "contacto": { "telefono": "2634123123" },
+    "tarjetas": []
+  },
+  {
+    "nombre": "Agustín",
+    "apellido": "Alvarez",
+    "dni": "39888777",
+    "edad": 25,
+    "posicion": "Arquero",
+    "goles": 0,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000006" },
+    "contacto": { "telefono": "2634887766" },
+    "tarjetas": []
+  },
+  {
+    "nombre": "Santiago",
+    "apellido": "Mendoza",
+    "dni": "40111222",
+    "edad": 23,
+    "posicion": "Mediocampista",
+    "goles": 6,
+    "sancionado": false,
+    "equipo_id": { "$oid": "650000000000000000000007" },
+    "contacto": { "telefono": "2634554433" },
+    "tarjetas": [
+      { "tipo": "amarilla", "fecha": "2026-04-22" }
+    ]
+  }
+]
