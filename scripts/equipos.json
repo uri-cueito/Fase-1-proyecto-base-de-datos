@@ -1,0 +1,89 @@
+[
+  {
+    "_id": { "$oid": "650000000000000000000001" },
+    "nombre": "Club Atlético San Martín",
+    "fundacion": 1927,
+    "barrio": "Centro",
+    "categoria": "Primera A",
+    "puntos": 25,
+    "sponsor": "Mendoza Fiduciaria",
+    "cancha": { "nombre": "Estadio Libertador General San Martín", "capacidad": 8700, "iluminacion": true }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000002" },
+    "nombre": "Club Social y Deportivo Montecaseros",
+    "fundacion": 1940,
+    "barrio": "Montecaseros",
+    "categoria": "Primera A",
+    "puntos": 21,
+    "sponsor": "Bodegas del Este",
+    "cancha": { "nombre": "El Fortín de Montecaseros", "capacidad": 3500 }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000003" },
+    "nombre": "Club Atlético Palmira",
+    "fundacion": 1912,
+    "barrio": "Palmira",
+    "categoria": "Primera A",
+    "puntos": 18,
+    "cancha": { "nombre": "José Castro", "capacidad": 5000, "iluminacion": true }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000004" },
+    "nombre": "Club Social y Deportivo La Libertad",
+    "fundacion": 1935,
+    "barrio": "Rivadavia",
+    "categoria": "Primera A",
+    "puntos": 15
+  },
+  {
+    "_id": { "$oid": "650000000000000000000005" },
+    "nombre": "Club Tres Porteñas",
+    "fundacion": 1952,
+    "barrio": "Tres Porteñas",
+    "categoria": "Primera B",
+    "puntos": 30
+  },
+  {
+    "_id": { "$oid": "650000000000000000000006" },
+    "nombre": "Club El Ramblon",
+    "fundacion": 1965,
+    "barrio": "El Ramblón",
+    "categoria": "Primera B",
+    "puntos": 24,
+    "sponsor": "Transportes Este"
+  },
+  {
+    "_id": { "$oid": "650000000000000000000007" },
+    "nombre": "Club Chapanay",
+    "fundacion": 1948,
+    "barrio": "Chapanay",
+    "categoria": "Primera B",
+    "puntos": 12
+  },
+  {
+    "_id": { "$oid": "650000000000000000000008" },
+    "nombre": "Club Juventud Unida de Alto Verde",
+    "fundacion": 1955,
+    "barrio": "Alto Verde",
+    "categoria": "Primera A",
+    "puntos": 10
+  },
+  {
+    "_id": { "$oid": "650000000000000000000009" },
+    "nombre": "Club Deportivo Buen Orden",
+    "fundacion": 1938,
+    "barrio": "Buen Orden",
+    "categoria": "Primera B",
+    "puntos": 8,
+    "cancha": { "nombre": "Cancha Buen Orden", "capacidad": 1200 }
+  },
+  {
+    "_id": { "$oid": "650000000000000000000010" },
+    "nombre": "Club San Pedro",
+    "fundacion": 1970,
+    "barrio": "San Pedro",
+    "categoria": "Primera B",
+    "puntos": 19
+  }
+]
