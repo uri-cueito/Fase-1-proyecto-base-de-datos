@@ -72,6 +72,20 @@ El objetivo principal es resolver la dispersión de información y la lentitud e
   }
 }
 
+## 3. Pruebas de Consultas MQL
+
+### Consulta 1: Filtrado de Jugadores Goleadores
+
+* **Problema de Negocio:** La Liga Sanmartiniana requiere obtener el listado de jugadores que han anotado más de 5 goles en el torneo para la tabla de goleadores.
+* **Consulta ejecutada:**
+  ```javascript
+  db.jugadores.find({ "goles": { "$gt": 5 } })
+```
+#### Evidencia de Ejecución (MongoDB Atlas)
+<img width="1436" height="453" alt="WhatsApp Image 2026-10-13 at 10 29 50 PM" src="https://github.com/user-attachments/assets/cc5d0f9f-1f30-4ba6-93d0-cc275bf0f4d8" />
+<img width="1600" height="652" alt="WhatsApp Image 2026-10-13 at 10 29 29 PM" src="https://github.com/user-attachments/assets/2fd1b4e3-a3b0-4903-ad5a-9c1d71cc88e0" />
+
+
 
 
 
